@@ -39,7 +39,7 @@
     "ortoni-report": "^2.0.2",
     "pdfjs-dist-es5": "^2.13.216",
     "pg": "^8.12.0",
-    "typescript": "^5.5.4",
+    "typescript": "^5.8.2",
     "winston": "^3.14.2"
   }
 }
