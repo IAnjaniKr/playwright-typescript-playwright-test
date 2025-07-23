@@ -1,5 +1,5 @@
 # Use the node:20.5.1-bookworm-slim image as the base image
-FROM node:20.19.0-bookworm-slim
+FROM node:20.19.4-bookworm-slim
 
 # Set the working directory inside the container to /app
 WORKDIR /app
